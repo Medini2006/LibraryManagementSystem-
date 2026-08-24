@@ -1,9 +1,6 @@
 # LibraryManagementSystem
 
 
-Here is a pure, comprehensive **description** of the project. No instructions, no setup steps—just a clear overview of what the system is, what it does, and how it works.
-
----
 
 ## 📚 Library Management System (JDBC)
 
