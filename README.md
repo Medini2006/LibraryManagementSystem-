@@ -1,6 +1,3 @@
-# LibraryManagementSystem
-
-
 
 ## 📚 Library Management System (JDBC)
 
